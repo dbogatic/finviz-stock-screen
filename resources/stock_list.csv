@@ -1,13 +1,11 @@
 ,Ticker,Company,Sector,Industry,Country,Market Cap,P/E,Price,Change,Volume
-0,AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,USA,123340000000.0,31.99,133.73,-0.0051,7615112.0
-1,BIO,"Bio-Rad Laboratories, Inc.",Healthcare,Medical Devices,USA,18530000000.0,4.96,626.12,0.0021,138223.0
-2,DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,USA,9560000000.0,26.34,341.06,0.0045000000000000005,147715.0
-3,FB,"Facebook, Inc.",Communication Services,Internet Content & Information,USA,874730000000.0,30.36,306.18,-0.0053,12815056.0
-4,GNSS,Genasys Inc.,Technology,Scientific & Technical Instruments,USA,240890000.0,23.56,7.21,0.006999999999999999,75046.0
-5,GNTX,Gentex Corporation,Consumer Cyclical,Auto Parts,USA,8700000000.0,25.52,36.03,0.005,1462589.0
-6,LORL,Loral Space & Communications Inc.,Communication Services,Telecom Services,USA,805580000.0,12.49,37.33,-0.0072,56885.0
-7,NVEC,NVE Corporation,Technology,Semiconductors,USA,346280000.0,28.89,71.25,-0.0059,14547.0
-8,PGNY,"Progyny, Inc.",Healthcare,Health Information Services,USA,4390000000.0,114.16,52.97,0.0527,4554590.0
-9,SEIC,SEI Investments Company,Financial,Asset Management,USA,9010000000.0,21.02,63.16,0.0059,390397.0
-10,USNA,"USANA Health Sciences, Inc.",Consumer Defensive,Household & Personal Products,USA,2190000000.0,16.85,98.89,-0.025099999999999997,119664.0
-11,VIVO,"Meridian Bioscience, Inc.",Healthcare,Diagnostics & Research,USA,1020000000.0,14.41,23.25,-0.013600000000000001,1026654.0
+0,AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,USA,124390000000.0,32.26,134.86,0.0236,8047587.0
+1,BIO,"Bio-Rad Laboratories, Inc.",Healthcare,Medical Devices,USA,18950000000.0,5.07,640.42,0.0011,85212.0
+2,DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,USA,9640000000.0,26.55,343.77,0.0273,232892.0
+3,FB,"Facebook, Inc.",Communication Services,Internet Content & Information,USA,860300000000.0,29.86,301.13,0.0155,17135986.0
+4,GNSS,Genasys Inc.,Technology,Scientific & Technical Instruments,USA,237210000.0,23.2,7.1,0.0231,58366.0
+5,GNTX,Gentex Corporation,Consumer Cyclical,Auto Parts,USA,8539999999.999999,25.04,35.35,-0.0073,1480749.0
+6,LORL,Loral Space & Communications Inc.,Communication Services,Telecom Services,USA,829970000.0,12.87,38.46,0.0175,66076.0
+7,NVEC,NVE Corporation,Technology,Semiconductors,USA,339710000.0,28.35,69.9,0.0154,8904.0
+8,PGNY,"Progyny, Inc.",Healthcare,Health Information Services,USA,4410000000.0,114.63,53.19,0.04190000000000001,493051.0
+9,USNA,"USANA Health Sciences, Inc.",Consumer Defensive,Household & Personal Products,USA,2140000000.0000002,16.48,96.71,-0.0063,79155.0
